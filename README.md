@@ -27,5 +27,12 @@ this data analysis project aims to generate insight into
   in the initial phase of the data cleaning and preparation, we perform the following actions
     1. Data loading and inspection
     2. handing missing variable
-    3. data cleaning and formating 
+    3. data cleaning and formating
+ 
+
+```SQL
+SELECT  A,B,C
+WHERE A>45
+
+```
 
