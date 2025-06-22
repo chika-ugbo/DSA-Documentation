@@ -7,3 +7,19 @@ i have learnt quite a number of things ranging from ms excel to SQL and now my p
 ## Project topic: E commerce sales Analysis
 
 ### project overview
+this data analysis project aims to generate insight into 
+### DATA SOURCES
+
+
+
+### TOOLS USED
+- Ms excel for data cleaning[download here](https://www.microsoft.com)
+   - for data collection
+   - for data cleaning
+     1. data manipulation
+     2. data munching
+        
+- SQL
+- POWER BI
+- Ms power point
+
