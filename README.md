@@ -23,3 +23,9 @@ this data analysis project aims to generate insight into
 - POWER BI
 - Ms power point
 
+  ### Data cleaning
+  in the initial phase of the data cleaning and preparation, we perform the following actions
+    1. Data loading and inspection
+    2. handing missing variable
+    3. data cleaning and formating 
+
